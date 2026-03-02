@@ -1,8 +1,9 @@
-**Data Mining and Machine Learning Project **
+Data Mining and Machine Learning Project
 
 Dataset: Most Streamed Spotify Songs 2023 [https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023]
 
 Kaggle project: [https://www.kaggle.com/code/janastanisavoska/cpa-msss]
+
 
 Project Description
 
