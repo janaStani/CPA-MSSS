@@ -4,8 +4,9 @@ Dataset: Most Streamed Spotify Songs 2023 [https://www.kaggle.com/datasets/nelgi
 
 Kaggle project: [https://www.kaggle.com/code/janastanisavoska/cpa-msss]
 
+<h3>Project Description</h3>
 
-Project Description
+This is a collaborative project, from the second year, conducted by two Computer Science students as part of the Data Mining and Machine Learning course.
 
 This project aims to investigate how the most streamed songs of 2023 perform across different 
 music streaming platforms. The dataset used for this project is the “Most Streamed Spotify
