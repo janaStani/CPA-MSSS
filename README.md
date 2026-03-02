@@ -11,7 +11,24 @@ This is a collaborative project, from the second year, conducted by two Computer
 This project aims to investigate how the most streamed songs of 2023 perform across different 
 music streaming platforms. The dataset used for this project is the “Most Streamed Spotify
 Songs 2023” available on Kaggle. This dataset provides a broad list of the most famous songs of
-2023 as listed on Spotify. The dataset includes information such as track name, artist(s) name,
-release date, Spotify playlists and charts, streaming statistics, Apple Music playlists and charts,
-Deezer playlists and charts, Shazam charts, and various audio features (acousticness,
-speechiness, etc.).
+2023 as listed on Spotify. 
+
+<br>
+
+The dataset includes information such as: 
+
+- track name, artist(s) name,
+
+- release date,
+
+- Spotify playlists and charts,
+
+- streaming statistics,
+
+- Apple Music playlists and charts,
+
+- Deezer playlists and charts,
+
+- Shazam charts,
+
+- and various audio features (acousticness, speechiness, etc.).
