@@ -8,10 +8,7 @@
 
 This is a collaborative project, from the second year, conducted by two Computer Science students as part of the Data Mining and Machine Learning course.
 
-This project aims to investigate how the most streamed songs of 2023 perform across different 
-music streaming platforms. The dataset used for this project is the “Most Streamed Spotify
-Songs 2023” available on Kaggle. This dataset provides a broad list of the most famous songs of
-2023 as listed on Spotify. 
+This project aims to investigate how the most-streamed songs of 2023 perform across different music streaming platforms. 
 
 <br>
 
